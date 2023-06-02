@@ -7,7 +7,7 @@ import threading
 import os
 
 class GeriTakipEtmeyenler:
-    def __init__(self) -> None:
+    def __init__(self):
         self.cl = Client()
         if os.name == 'nt':
             self.clearcmd = 'cls'
