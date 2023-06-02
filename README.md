@@ -4,9 +4,9 @@ Bilgisayarınızda Python'un 3.9 veya daha yüksek bir sürümünün kurulu olma
 
 ## Kullanımı
 pip install -r requirements.txt
-###Windows için
+### Windows için
 python main.py
-###Linux için
+### Linux için
 python3 main.py
 
 ## TODO
